@@ -426,7 +426,7 @@ class _LoginViewState extends State<LoginView> {
                                                         height: 45,
                                                         child: Material(
                                                           borderRadius: BorderRadius
-                                                              .circular(13.0),
+                                                              .circular(14.0),
                                                           child: InkWell(
                                                             onTap: () {
                                                               print("عربي ");
